@@ -1,1 +1,0 @@
-Controlador de llum led amb control de lluminositat i color personalitzable

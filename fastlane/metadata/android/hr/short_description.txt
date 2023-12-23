@@ -1,1 +1,0 @@
-Kontroler LED svjetla s kontrolom svjetline i boje, stroboskop
