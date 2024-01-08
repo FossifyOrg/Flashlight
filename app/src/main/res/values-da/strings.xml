@@ -5,14 +5,8 @@
     <string name="camera_error">Forbindelse til kameraet mislykkedes</string>
     <string name="camera_permission">Kameratilladelse er nødvendig for korrekt stroboskopeffekt</string>
     <string name="bright_display">Lyst display</string>
-    <!-- Settings -->
     <string name="show_bright_display">Vis en lys skærmknap</string>
     <string name="show_stroboscope">Vis en stroboskop-knap</string>
-    <string name="stroboscope">Stroboscope</string>
     <string name="show_sos">Vis en SOS-knap</string>
     <string name="turn_flashlight_on">Slå lommelygte til ved start</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

@@ -5,14 +5,8 @@
     <string name="camera_error">Неуспешен достъп до камера</string>
     <string name="camera_permission">Разрешение за използване на камерата е необходимо за постигане на подходящ стробоскопичен ефект</string>
     <string name="bright_display">Ярък дисплей</string>
-    <!-- Settings -->
     <string name="show_bright_display">Покажи ярък дисплей бутон</string>
     <string name="show_stroboscope">Покажи стробинг бутон</string>
-    <string name="stroboscope">Stroboscope</string>
     <string name="show_sos">Показване на SOS бутон</string>
     <string name="turn_flashlight_on">Включване на фенер при стартиране</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

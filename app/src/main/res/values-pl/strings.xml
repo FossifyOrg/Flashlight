@@ -5,14 +5,9 @@
     <string name="camera_error">Nie udało się uzyskać dostępu do aparatu</string>
     <string name="camera_permission">Dostęp do aparatu jest niezbędny dla prawidłowego efektu stroboskopowego</string>
     <string name="bright_display">Jasny wyświetlacz</string>
-    <!-- Settings -->
     <string name="show_bright_display">Pokazuj przycisk jasnego wyświetlacza</string>
     <string name="show_stroboscope">Pokazuj przycisk stroboskopu</string>
     <string name="stroboscope">Stroboskop</string>
     <string name="show_sos">Pokazuj przycisk SOS</string>
     <string name="turn_flashlight_on">Włączaj latarkę przy uruchomieniu</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

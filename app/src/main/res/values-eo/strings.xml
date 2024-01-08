@@ -2,17 +2,6 @@
 <resources>
     <string name="app_name">Simpla Lanterno</string>
     <string name="app_launcher_name">Lanterno</string>
-    <string name="camera_error">Obtaining the camera failed</string>
-    <string name="camera_permission">Camera permission is necessary for proper stroboscope effect</string>
     <string name="bright_display">Hela ekrano</string>
-    <!-- Settings -->
     <string name="show_bright_display">Montri butonon por hela ekrano</string>
-    <string name="show_stroboscope">Show a stroboscope button</string>
-    <string name="stroboscope">Stroboscope</string>
-    <string name="show_sos">Show an SOS button</string>
-    <string name="turn_flashlight_on">Turn flashlight on at startup</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
-</resources>
+    </resources>
