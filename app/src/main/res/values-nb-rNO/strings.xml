@@ -2,17 +2,10 @@
 <resources>
     <string name="app_name">Enkel lommelykt</string>
     <string name="app_launcher_name">Lommelykt</string>
-    <string name="camera_error">Obtaining the camera failed</string>
     <string name="camera_permission">Kameratillatelse er nødvendig for riktig stroboskopeffekt</string>
     <string name="bright_display">Lys skjerm</string>
-    <!-- Settings -->
     <string name="show_bright_display">Vis en lys skjermknapp</string>
     <string name="show_stroboscope">Vis en stroboskop-knapp</string>
-    <string name="stroboscope">Stroboscope</string>
     <string name="show_sos">Vis SOS-knapp</string>
     <string name="turn_flashlight_on">Skru på lommelykt ved oppstart</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

@@ -5,14 +5,8 @@
     <string name="camera_error">Kaamera liidestamine ei õnnestunud</string>
     <string name="camera_permission">Toimiva stroboskoopilise efekti jaoks on vajalik kaamera kasutamise luba</string>
     <string name="bright_display">Kirgas ekraan</string>
-    <!-- Settings -->
     <string name="show_bright_display">Näita nuppu ekraanil kirkana</string>
     <string name="show_stroboscope">Näita stroboskoobi nuppu</string>
-    <string name="stroboscope">Stroboscope</string>
     <string name="show_sos">Näita SOS-nuppu</string>
     <string name="turn_flashlight_on">Rakenduse käivitamisel lülita taskulamp sisse</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>

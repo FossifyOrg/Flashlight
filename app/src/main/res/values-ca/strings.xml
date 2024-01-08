@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Flashlight</string>
     <string name="app_launcher_name">Llanterna</string>
     <string name="camera_error">Ha fallat l\'accés a la càmera</string>
     <string name="camera_permission">És necessari el permís de la càmera per a un efecte estroboscòpic adequat</string>
     <string name="bright_display">Pantalla lluminosa</string>
-    <!-- Settings -->
     <string name="show_bright_display">Mostra un botó de pantalla lluminosa</string>
     <string name="show_stroboscope">Mostra un botó d\'estroboscopi</string>
-    <string name="stroboscope">Stroboscope</string>
     <string name="show_sos">Mostra un botó de SOS</string>
     <string name="turn_flashlight_on">Activa la llanterna a l\'inici</string>
-    <!--
-        Haven't found some strings? There's more at
-        https://github.com/FossifyOrg/Commons/tree/master/commons/src/main/res
-    -->
 </resources>
