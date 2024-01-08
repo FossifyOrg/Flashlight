@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Linterna sencilla</string>
+    <string name="app_name">Simple Flashlight</string>
     <string name="app_launcher_name">Linterna</string>
     <string name="camera_error">Ha fallado el acceso a la cámara</string>
     <string name="camera_permission">El permiso de acceso a la cámara es necesario para un apropiado efecto estroboscópico</string>
@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Mostrar botón de estroboscopio</string>
     <string name="show_sos">Mostrar un botón de SOS</string>
     <string name="turn_flashlight_on">Encender la linterna al inicio</string>
+    <string name="stroboscope">Estroboscopio</string>
 </resources>
