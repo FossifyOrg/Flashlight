@@ -1,0 +1,3 @@
+* Utiliza Material You design por defecto en Android 12+
+ * Aumentado la versión mínima requerida de Android OS a 6
+ * Añadidas algunas mejoras de interfaz de usuario, estabilidad y traducción
