@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="turn_flashlight_on">ⵙⵙⴰⵖ ⵜⴰⵙⴰⴼⵓⵜ ⴷⴰⵔ ⵓⵏⵓⵔⵣⵎ</string>
+    <string name="stroboscope">ⴰⵙⵙⴼⴰⵡ ⴰⵔⴳⵉⴳⴰⵢ</string>
+    <string name="show_stroboscope">ⵎⵍ ⴰⵙⵙⴼⴰⵡ ⴰⵔⴳⵉⴳⴰⵢ</string>
+    <string name="app_launcher_name">ⵜⴰⵙⴰⴼⵓⵜ</string>
+    <string name="show_bright_display">ⵎⵍ ⴰⴱⵔⴰ ⵏ ⵓⵎⵉⵥⴰⵕ ⴰⵙⴰⴼⴰⵡ</string>
+    <string name="camera_error">ⵍⴽⴰⵎⵉⵔⴰ ⵓⵔ ⵜⵏⵏⵓⵔⵣⵎ</string>
+    <string name="show_sos">ⵎⵍ ⴰⴱⵔⴰ ⵏ SOS</string>
+    <string name="bright_display">ⴰⵎⵉⵥⴰⵕ ⴰⵎⴰⴼⴰⵡ</string>
+    <string name="app_name">ⵜⴰⵙⴰⴼⵓⵜ ⵜⴰⴼⵔⴰⵔⵜ</string>
+    <string name="camera_permission">ⴰⵙⵙⴼⴰⵡ ⴰⵔⴳⵉⴳⴰⵢ ⵜⵇⵇⴰⵏⵜ ⵜⵓⵔⴰⴳⵜ ⵏ ⵍⴽⴰⵎⵉⵔⴰ</string>
+</resources>
