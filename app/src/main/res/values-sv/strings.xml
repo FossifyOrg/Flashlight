@@ -8,4 +8,5 @@
     <string name="show_stroboscope">Visa en stroboskopknapp</string>
     <string name="show_sos">Visa en SOS-knapp</string>
     <string name="turn_flashlight_on">Slå på ficklampan vid start</string>
+    <string name="stroboscope">Stroboskop</string>
 </resources>
