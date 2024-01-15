@@ -1,0 +1,1 @@
+LED-Lichtsteuerung mit Helligkeitsregelung und anpassbarer Farbe, Stroboskop
