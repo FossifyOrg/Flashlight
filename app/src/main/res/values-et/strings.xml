@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Näita stroboskoobi nuppu</string>
     <string name="show_sos">Näita SOS-nuppu</string>
     <string name="turn_flashlight_on">Rakenduse käivitamisel lülita taskulamp sisse</string>
+    <string name="stroboscope">Stroboskoop</string>
 </resources>
