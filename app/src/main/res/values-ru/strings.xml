@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Показать кнопку стробоскопа</string>
     <string name="show_sos">Показать кнопку SOS</string>
     <string name="turn_flashlight_on">Включать фонарик при запуске</string>
+    <string name="stroboscope">Стробоскоп</string>
 </resources>
