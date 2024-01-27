@@ -1,0 +1,1 @@
+Kontroler LED svjetla s kontrolom svjetlosti i prilagodljivom bojom, stroboskop
