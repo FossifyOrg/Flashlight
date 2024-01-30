@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Prikaži gumb stroboskopa</string>
     <string name="show_sos">Prikaz gumba SOS</string>
     <string name="turn_flashlight_on">Vklop svetilke ob zagonu</string>
+    <string name="stroboscope">Stroboskop</string>
 </resources>
