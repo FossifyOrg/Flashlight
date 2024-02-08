@@ -8,6 +8,6 @@
     <string name="camera_permission">उचित स्ट्रोबोस्कोप प्रभाव के लिए कैमरे की अनुमति आवश्यक है</string>
     <string name="show_stroboscope">स्ट्रोबोस्कोप बटन दिखाएँ</string>
     <string name="turn_flashlight_on">स्टार्टअप पर टॉर्च चालू करें</string>
-    <string name="app_name">Simple Flashlight</string>
+    <string name="app_name">Fossify Flashlight</string>
     <string name="show_sos">एक SOS बटन दिखाएँ</string>
 </resources>
