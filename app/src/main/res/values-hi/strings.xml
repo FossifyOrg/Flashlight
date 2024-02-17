@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">टॉर्च</string>
+    <string name="bright_display">उज्ज्वल प्रदर्शन</string>
+    <string name="camera_error">कैमरा प्राप्त करना विफल रहा</string>
+    <string name="show_bright_display">एक उज्ज्वल डिस्प्ले बटन दिखाएँ</string>
+    <string name="stroboscope">स्ट्रोबोस्कोप</string>
+    <string name="camera_permission">उचित स्ट्रोबोस्कोप प्रभाव के लिए कैमरे की अनुमति आवश्यक है</string>
+    <string name="show_stroboscope">स्ट्रोबोस्कोप बटन दिखाएँ</string>
+    <string name="turn_flashlight_on">स्टार्टअप पर टॉर्च चालू करें</string>
+    <string name="app_name">Fossify Flashlight</string>
+    <string name="show_sos">एक SOS बटन दिखाएँ</string>
+</resources>

@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Đèn pin Fossify</string>
+    <string name="show_sos">Hiện nút tính hiệu cầu cứu SOS</string>
+    <string name="show_bright_display">Hiện nút làm sáng màn hình</string>
+    <string name="app_launcher_name">Đèn pin</string>
+    <string name="camera_error">Không nhận được máy ảnh</string>
+    <string name="camera_permission">Cần có quyền truy cập vào máy ảnh để có hiệu ứng hoạt nghiệm thích hợp</string>
+    <string name="stroboscope">Kính hoạt nghiệm</string>
+    <string name="bright_display">Sáng màn hình</string>
+    <string name="show_stroboscope">Hiện nút kính hoạt nghiệm</string>
+    <string name="turn_flashlight_on">Bật đèn pin cùng ứng dụng</string>
 </resources>

@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Knop voor stroboscoop tonen</string>
     <string name="show_sos">Knop voor SOS-noodsignaal tonen</string>
     <string name="turn_flashlight_on">Zaklamp bij starten aanzetten</string>
+    <string name="stroboscope">Stroboscoop</string>
 </resources>
