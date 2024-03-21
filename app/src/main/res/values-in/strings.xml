@@ -8,4 +8,6 @@
     <string name="show_stroboscope">Tampilkan tombol stroboscope</string>
     <string name="show_sos">Tampilkan tombol SOS</string>
     <string name="turn_flashlight_on">Nyalakan senter saat memulai</string>
+    <string name="stroboscope">Stroboskop</string>
+    <string name="app_name">Senter Fossify</string>
 </resources>

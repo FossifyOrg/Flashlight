@@ -1,0 +1,26 @@
+En stilren lommelygte med en ekstra lysstærk skærm, tilpasseligt stroboskop med strobelysfunktion og en foruddefineret SOS-tilstand.
+
+Denne hurtigstart-LED-lommelygte er lille på din enhed og fungerer som en rigtig LED-lampe i mørket. Med denne lommelygte kan du nemt arbejde under forskellige forhold, og den kan hjælpe dig, når du er i en alvorlig situation.
+
+Alle disse funktioner kan være til stor hjælp under visse omstændigheder. Uanset om du vandrer i mørke og har brug for et LED-lys til at se vejen, eller du skal finde noget et sted med svagt lys, kan denne hurtigstart-lommelygte hjælpe dig under alle mulige omstændigheder. Stroboskoplyset kan hjælpe dig, når du har brug for hjælp. Det hurtige flash-LED-lys kan hjælpe dig med at tilkalde hjælp, hvis du har brug for det.
+
+Den lyse skærm kan skifte farve, hvilket åbner en ny verden af anvendelsesmuligheder. Det kan være praktisk, hvis du vil se, hvor langt du er væk uden at blænde dig selv. Med forskellige farver kan du bruge dette LED-lys, når du er sammen med venner og vil holde en fest. Eller du kan bruge denne funktion til at ringe efter hjælp — alt efter personen.
+
+Stroboskopet kan ændres i frekvens, lige fra lynhurtigt blink til lejlighedsvise blink. Denne hurtigstart-app kan tilpasses efter dine behov. Du kan ændre alle funktionerne i denne app efter dine behov uden problemer.
+
+Hvis denne gratis lommelygte er tændt via appen (ikke widget), forhindrer den enheden i at falde i søvn. Den stærke lommelygte kan valgfrit tændes, når appen startes, men det er ikke påkrævet.
+
+Leveres med en 1x1-widget med tilpasselig farve og gennemsigtighed. Denne widget kan hjælpe dig med hurtigt at starte din LED-lys-app, når du har brug for det.
+
+Den leveres med materialedesign og mørkt tema som standard, hvilket giver en god brugeroplevelse og gør den nem at bruge. Manglen på internetadgang giver dig mere privatliv, sikkerhed og stabilitet end andre apps.
+
+Indeholder ingen reklamer eller unødvendige tilladelser. Den er fuldt open source og har farver, der kan tilpasses.
+
+Se hele pakken af Simple Tools her:
+https://www.fossify.org
+
+Reddit:
+https://www.reddit.com/r/Fossify
+
+Telegram:
+https://t.me/Fossify
