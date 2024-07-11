@@ -8,4 +8,6 @@
     <string name="show_stroboscope">顯示閃爍效果按鈕</string>
     <string name="show_sos">顯示SOS按鈕</string>
     <string name="turn_flashlight_on">啟動時打開手電筒</string>
+    <string name="stroboscope">頻閃燈</string>
+    <string name="bright_display">高亮度顯示</string>
 </resources>
