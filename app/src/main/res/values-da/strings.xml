@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simpel lommelygte</string>
+    <string name="app_name">Simpel Lommelygte</string>
     <string name="app_launcher_name">Lommelygte</string>
     <string name="camera_error">Forbindelse til kameraet mislykkedes</string>
     <string name="camera_permission">Kameratilladelse er nødvendig for korrekt stroboskopeffekt</string>
