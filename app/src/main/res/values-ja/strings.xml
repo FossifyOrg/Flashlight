@@ -9,4 +9,5 @@
     <string name="show_stroboscope">ストロボボタンを表示</string>
     <string name="show_sos">SOSボタンを表示</string>
     <string name="turn_flashlight_on">起動時にフラッシュライトを点灯</string>
+    <string name="stroboscope">ストロボスコープ</string>
 </resources>
