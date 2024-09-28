@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>FunctionNaming:Activity.kt$@Composable fun CheckFeatureLocked( skipCheck: Boolean )</ID>
+    <ID>FunctionNaming:BrightDisplayActivity.kt$BrightDisplayActivity$@Composable private fun ScreenContent(onChangeColorButtonPress: () -&gt; Unit)</ID>
+    <ID>FunctionNaming:BrightDisplayScreen.kt$@Composable @MyDevices private fun BrightDisplayScreenPreview()</ID>
+    <ID>FunctionNaming:BrightDisplayScreen.kt$@Composable internal fun BrightDisplayScreen( backgroundColor: Int, contrastColor: Int, onChangeColorPress: () -&gt; Unit, sleepTimer: @Composable () -&gt; Unit )</ID>
+    <ID>FunctionNaming:MainActivity.kt$MainActivity$@Composable private fun AppLaunched( donateAlertDialogState: AlertDialogState = getDonateAlertDialogState(), rateStarsAlertDialogState: AlertDialogState = getRateStarsAlertDialogState(), )</ID>
+    <ID>FunctionNaming:MainActivity.kt$MainActivity$@Composable private fun SleepTimerRadioDialog( alertDialogState: AlertDialogState, onCustomValueSelected: () -&gt; Unit )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable @MyDevices internal fun MainScreenPreview()</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun BrightDisplayButton( onBrightDisplayPress: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun FlashlightButton( flashlightActive: Boolean, onFlashlightPress: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun MainScreen( flashlightButton: @Composable () -&gt; Unit, brightDisplayButton: @Composable () -&gt; Unit, sosButton: @Composable () -&gt; Unit, stroboscopeButton: @Composable () -&gt; Unit, slidersSection: @Composable () -&gt; Unit, sleepTimer: @Composable () -&gt; Unit, showMoreApps: Boolean, openSettings: () -&gt; Unit, openAbout: () -&gt; Unit, openSleepTimer: () -&gt; Unit, moreAppsFromUs: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun MainScreenSlidersSection( showBrightnessBar: Boolean, brightnessBarValue: Float, onBrightnessBarValueChange: (Float) -&gt; Unit, showStroboscopeBar: Boolean, stroboscopeBarValue: Float, onStroboscopeBarValueChange: (Float) -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun SosButton( sosActive: Boolean, onSosButtonPress: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable internal fun StroboscopeButton( stroboscopeActive: Boolean, onStroboscopeButtonPress: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:MainScreen.kt$@Composable private fun SmallButton( painter: Painter, contentDescription: String, isActive: Boolean, onPress: () -&gt; Unit )</ID>
+    <ID>FunctionNaming:SettingsScreen.kt$@Composable @MyDevices private fun SettingsScreenPreview()</ID>
+    <ID>FunctionNaming:SettingsScreen.kt$@Composable internal fun ColorCustomizationSettingsSection( customizeColors: () -&gt; Unit, customizeWidgetColors: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:SettingsScreen.kt$@Composable internal fun GeneralSettingsSection( showUseEnglish: Boolean, useEnglishChecked: Boolean, showDisplayLanguage: Boolean, displayLanguage: String, turnFlashlightOnStartupChecked: Boolean, forcePortraitModeChecked: Boolean, showBrightDisplayButtonChecked: Boolean, showSosButtonChecked: Boolean, showStroboscopeButtonChecked: Boolean, onUseEnglishPress: (Boolean) -&gt; Unit, onSetupLanguagePress: () -&gt; Unit, onTurnFlashlightOnStartupPress: (Boolean) -&gt; Unit, onForcePortraitModePress: (Boolean) -&gt; Unit, onShowBrightDisplayButtonPress: (Boolean) -&gt; Unit, onShowSosButtonPress: (Boolean) -&gt; Unit, onShowStroboscopeButtonPress: (Boolean) -&gt; Unit, )</ID>
+    <ID>FunctionNaming:SettingsScreen.kt$@Composable internal fun SettingsScreen( colorCustomizationSection: @Composable () -&gt; Unit, generalSection: @Composable () -&gt; Unit, goBack: () -&gt; Unit, )</ID>
+    <ID>FunctionNaming:SleepTimer.kt$@Composable @MyDevices internal fun SleepTimerPreview()</ID>
+    <ID>FunctionNaming:SleepTimer.kt$@Composable internal fun AnimatedSleepTimer( modifier: Modifier = Modifier, timerText: String, timerVisible: Boolean, onTimerClosePress: () -&gt; Unit )</ID>
+    <ID>FunctionNaming:SleepTimer.kt$@Composable internal fun SleepTimer( modifier: Modifier = Modifier, timerText: String, onCloseClick: () -&gt; Unit )</ID>
+    <ID>FunctionNaming:SleepTimerCustomAlertDialog.kt$@Composable @MyDevices private fun SleepTimerCustomAlertDialogPreview()</ID>
+    <ID>FunctionNaming:SleepTimerCustomAlertDialog.kt$@Composable fun SleepTimerCustomAlertDialog( alertDialogState: AlertDialogState, modifier: Modifier = Modifier, onConfirmClick: (seconds: Int) -&gt; Unit, onCancelClick: (() -&gt; Unit)? = null )</ID>
+    <ID>FunctionNaming:WidgetConfigureScreen.kt$@Composable @MyDevices private fun WidgetBrightDisplayConfigureScreenPreview()</ID>
+    <ID>FunctionNaming:WidgetConfigureScreen.kt$@Composable internal fun WidgetConfigureScreen( @DrawableRes widgetDrawable: Int, @ColorInt widgetColor: Int, widgetAlpha: Float, onSliderChanged: (Float) -&gt; Unit, onColorPressed: () -&gt; Unit, onSavePressed: () -&gt; Unit )</ID>
+    <ID>LongMethod:MainActivity.kt$MainActivity$override fun onCreate(savedInstanceState: Bundle?)</ID>
+    <ID>LongMethod:SettingsActivity.kt$SettingsActivity$override fun onCreate(savedInstanceState: Bundle?)</ID>
+    <ID>LongMethod:SleepTimerCustomAlertDialog.kt$@Composable fun SleepTimerCustomAlertDialog( alertDialogState: AlertDialogState, modifier: Modifier = Modifier, onConfirmClick: (seconds: Int) -&gt; Unit, onCancelClick: (() -&gt; Unit)? = null )</ID>
+    <ID>LongParameterList:Activity.kt$( appNameId: Int, licenseMask: Long, versionName: String, faqItems: ArrayList&lt;FAQItem&gt;, showFAQBeforeMail: Boolean, getAppIconIDs: ArrayList&lt;Int&gt; = getAppIconIDs(), getAppLauncherName: String = launcherName() )</ID>
+    <ID>LongParameterList:MainScreen.kt$( flashlightButton: @Composable () -&gt; Unit, brightDisplayButton: @Composable () -&gt; Unit, sosButton: @Composable () -&gt; Unit, stroboscopeButton: @Composable () -&gt; Unit, slidersSection: @Composable () -&gt; Unit, sleepTimer: @Composable () -&gt; Unit, showMoreApps: Boolean, openSettings: () -&gt; Unit, openAbout: () -&gt; Unit, openSleepTimer: () -&gt; Unit, moreAppsFromUs: () -&gt; Unit, )</ID>
+    <ID>LongParameterList:MainScreen.kt$( showBrightnessBar: Boolean, brightnessBarValue: Float, onBrightnessBarValueChange: (Float) -&gt; Unit, showStroboscopeBar: Boolean, stroboscopeBarValue: Float, onStroboscopeBarValueChange: (Float) -&gt; Unit, )</ID>
+    <ID>LongParameterList:SettingsScreen.kt$( showUseEnglish: Boolean, useEnglishChecked: Boolean, showDisplayLanguage: Boolean, displayLanguage: String, turnFlashlightOnStartupChecked: Boolean, forcePortraitModeChecked: Boolean, showBrightDisplayButtonChecked: Boolean, showSosButtonChecked: Boolean, showStroboscopeButtonChecked: Boolean, onUseEnglishPress: (Boolean) -&gt; Unit, onSetupLanguagePress: () -&gt; Unit, onTurnFlashlightOnStartupPress: (Boolean) -&gt; Unit, onForcePortraitModePress: (Boolean) -&gt; Unit, onShowBrightDisplayButtonPress: (Boolean) -&gt; Unit, onShowSosButtonPress: (Boolean) -&gt; Unit, onShowStroboscopeButtonPress: (Boolean) -&gt; Unit, )</ID>
+    <ID>LongParameterList:WidgetConfigureScreen.kt$( @DrawableRes widgetDrawable: Int, @ColorInt widgetColor: Int, widgetAlpha: Float, onSliderChanged: (Float) -&gt; Unit, onColorPressed: () -&gt; Unit, onSavePressed: () -&gt; Unit )</ID>
+    <ID>MagicNumber:Config.kt$Config$1000</ID>
+    <ID>MagicNumber:Config.kt$Config$1000L</ID>
+    <ID>MagicNumber:Config.kt$Config$30</ID>
+    <ID>MagicNumber:Config.kt$Config$60</ID>
+    <ID>MagicNumber:Context.kt$60</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$10</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$1000</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$30</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$3600</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$5</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity$60</ID>
+    <ID>MagicNumber:MainActivity.kt$MainActivity.MainViewModel$0.5f</ID>
+    <ID>MagicNumber:MyCameraImpl.kt$MyCameraImpl$1000L</ID>
+    <ID>MagicNumber:SleepTimer.kt$SleepTimer$1000L</ID>
+    <ID>MagicNumber:SleepTimer.kt$SleepTimer.&lt;no name provided&gt;$1000</ID>
+    <ID>MagicNumber:SleepTimerCustomAlertDialog.kt$60</ID>
+    <ID>MagicNumber:WidgetConfigureViewModel.kt$WidgetConfigureViewModel$255f</ID>
+    <ID>MaxLineLength:BrightDisplayActivity.kt$BrightDisplayActivity$AnimatedSleepTimer(timerText = timerText, timerVisible = timerVisible, onTimerClosePress = ::stopSleepTimer)</ID>
+    <ID>MaxLineLength:BrightDisplayActivity.kt$BrightDisplayActivity$requestedOrientation = if (config.forcePortraitMode) ActivityInfo.SCREEN_ORIENTATION_PORTRAIT else ActivityInfo.SCREEN_ORIENTATION_SENSOR</ID>
+    <ID>MaxLineLength:BrightDisplayActivity.kt$BrightDisplayActivity$val brightDisplayColor by preferences.brightDisplayColorFlow.collectAsStateWithLifecycle(preferences.brightDisplayColor)</ID>
+    <ID>MaxLineLength:Context.kt$val widgetIDs = AppWidgetManager.getInstance(applicationContext)?.getAppWidgetIds(ComponentName(applicationContext, MyWidgetBrightDisplayProvider::class.java)) ?: return</ID>
+    <ID>MaxLineLength:Context.kt$val widgetIDs = AppWidgetManager.getInstance(applicationContext)?.getAppWidgetIds(ComponentName(applicationContext, MyWidgetTorchProvider::class.java)) ?: return</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$(drawable as LayerDrawable).findDrawableByLayerId(R.id.shortcut_bright_display_background).applyColorFilter(appIconColor)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$FAQItem(com.simplemobiletools.commons.R.string.faq_1_title_commons, com.simplemobiletools.commons.R.string.faq_1_text_commons)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$FAQItem(com.simplemobiletools.commons.R.string.faq_4_title_commons, com.simplemobiletools.commons.R.string.faq_4_text_commons)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$add(resources.getQuantityString(com.simplemobiletools.commons.R.plurals.minutes, finalMinutes, finalMinutes))</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$add(resources.getQuantityString(com.simplemobiletools.commons.R.plurals.seconds, finalSeconds, finalSeconds))</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$faqItems.add(FAQItem(com.simplemobiletools.commons.R.string.faq_2_title_commons, com.simplemobiletools.commons.R.string.faq_2_text_commons))</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$faqItems.add(FAQItem(com.simplemobiletools.commons.R.string.faq_6_title_commons, com.simplemobiletools.commons.R.string.faq_6_text_commons))</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$requestedOrientation = if (preferences.forcePortraitMode) ActivityInfo.SCREEN_ORIENTATION_PORTRAIT else ActivityInfo.SCREEN_ORIENTATION_SENSOR</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val lastSleepTimerSeconds by preferences.lastSleepTimerSecondsFlow.collectAsStateWithLifecycle(preferences.lastSleepTimerSeconds)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val showBrightDisplayButton by preferences.brightDisplayFlow.collectAsStateWithLifecycle(config.brightDisplay)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val showMoreApps = onEventValue { !resources.getBoolean(com.simplemobiletools.commons.R.bool.hide_google_relations) }</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val showStroboscopeButton by preferences.stroboscopeFlow.collectAsStateWithLifecycle(config.stroboscope)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val sleepTimerDialogState = getSleepTimerDialogState(showCustomSleepTimerDialog = sleepTimerCustomDialogState::show)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity$val sleepTimerPermissionDialogState = getSleepTimerPermissionDialogState(showSleepTimerDialog = sleepTimerDialogState::show)</ID>
+    <ID>MaxLineLength:MainActivity.kt$MainActivity.MainViewModel.&lt;no name provided&gt;$_brightnessBarValue.value = camera.getCurrentBrightnessLevel().toFloat() / camera.getMaximumBrightnessLevel()</ID>
+    <ID>MaxLineLength:MainScreen.kt$ActionItem(com.simplemobiletools.commons.R.string.settings, icon = Icons.Filled.Settings, doAction = openSettings, overflowMode = OverflowMode.NEVER_OVERFLOW)</ID>
+    <ID>MaxLineLength:MainScreen.kt$customTopBar</ID>
+    <ID>MaxLineLength:MainScreen.kt$list += ActionItem(com.simplemobiletools.commons.R.string.more_apps_from_us, doAction = moreAppsFromUs, overflowMode = OverflowMode.ALWAYS_OVERFLOW)</ID>
+    <ID>MaxLineLength:MainScreen.kt$val about = ActionItem(com.simplemobiletools.commons.R.string.about, icon = Icons.Outlined.Info, doAction = openAbout, overflowMode = OverflowMode.NEVER_OVERFLOW)</ID>
+    <ID>MaxLineLength:MainScreen.kt$val actionMenus = remember { buildActionMenu(showMoreApps, openSettings, openAbout, openSleepTimer, moreAppsFromUs) }</ID>
+    <ID>MaxLineLength:MainScreen.kt$val sleepTimer = ActionItem(com.simplemobiletools.commons.R.string.sleep_timer, doAction = openSleepTimer, overflowMode = OverflowMode.ALWAYS_OVERFLOW)</ID>
+    <ID>MaxLineLength:MyCameraImpl.kt$MyCameraImpl$class</ID>
+    <ID>MaxLineLength:MyCameraImpl.kt$MyCameraImpl.Companion$fun newInstance(context: Context, cameraTorchListener: CameraTorchListener? = null)</ID>
+    <ID>MaxLineLength:MyWidgetBrightDisplayProvider.kt$MyWidgetBrightDisplayProvider$val pendingIntent = PendingIntent.getActivity(context, OPEN_APP_INTENT_ID, this, PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE)</ID>
+    <ID>MaxLineLength:MyWidgetTorchProvider.kt$MyWidgetTorchProvider$val pendingIntent = PendingIntent.getBroadcast(context, it, intent, PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val forcePortraitModeFlow by preferences.forcePortraitModeFlow.collectAsStateWithLifecycle(preferences.forcePortraitMode)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val showBrightDisplayButtonFlow by preferences.brightDisplayFlow.collectAsStateWithLifecycle(preferences.brightDisplay)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val showStroboscopeButtonFlow by preferences.stroboscopeFlow.collectAsStateWithLifecycle(preferences.stroboscope)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val turnFlashlightOnStartupFlow by preferences.turnFlashlightOnFlow.collectAsStateWithLifecycle(preferences.turnFlashlightOn)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val useEnglishChecked by preferences.useEnglishFlow.collectAsStateWithLifecycle(preferences.useEnglish)</ID>
+    <ID>MaxLineLength:SettingsActivity.kt$SettingsActivity$val wasUseEnglishToggled by preferences.wasUseEnglishToggledFlow.collectAsStateWithLifecycle(preferences.wasUseEnglishToggled)</ID>
+    <ID>MaxLineLength:SettingsScreen.kt$SettingsTitleTextComponent(text = stringResource(id = com.simplemobiletools.commons.R.string.color_customization))</ID>
+    <ID>MaxLineLength:SettingsScreen.kt$SettingsTitleTextComponent(text = stringResource(id = com.simplemobiletools.commons.R.string.general_settings))</ID>
+    <ID>MaxLineLength:SettingsScreen.kt$SimpleColumnScaffold</ID>
+    <ID>MaxLineLength:WidgetBrightDisplayConfigureActivity.kt$WidgetBrightDisplayConfigureActivity$viewModel.setWidgetId(intent.extras?.getInt(AppWidgetManager.EXTRA_APPWIDGET_ID) ?: AppWidgetManager.INVALID_APPWIDGET_ID)</ID>
+    <ID>MaxLineLength:WidgetConfigureViewModel.kt$WidgetConfigureViewModel$_widgetColor.value = application.resources.getColor(com.simplemobiletools.commons.R.color.you_primary_color, application.theme)</ID>
+    <ID>MaxLineLength:WidgetConfigureViewModel.kt$WidgetConfigureViewModel$if</ID>
+    <ID>MaxLineLength:WidgetTorchConfigureActivity.kt$WidgetTorchConfigureActivity$viewModel.setWidgetId(intent.extras?.getInt(AppWidgetManager.EXTRA_APPWIDGET_ID) ?: AppWidgetManager.INVALID_APPWIDGET_ID)</ID>
+    <ID>MemberNameEqualsClassName:SleepTimer.kt$SleepTimer$private var sleepTimer: CountDownTimer? = null</ID>
+    <ID>ReturnCount:MyCameraImpl.kt$MyCameraImpl$fun toggleSOS(): Boolean</ID>
+    <ID>ReturnCount:MyCameraImpl.kt$MyCameraImpl$fun toggleStroboscope(): Boolean</ID>
+    <ID>SwallowedException:Activity.kt$e: Exception</ID>
+    <ID>SwallowedException:MyCameraImpl.kt$MyCameraImpl$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:Activity.kt$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:CameraFlash.kt$CameraFlash$e: Exception</ID>
+    <ID>TooGenericExceptionCaught:MyCameraImpl.kt$MyCameraImpl$e: Exception</ID>
+    <ID>TooManyFunctions:MainActivity.kt$MainActivity : ComponentActivity</ID>
+    <ID>TooManyFunctions:MyCameraImpl.kt$MyCameraImpl</ID>
+    <ID>UnusedPrivateMember:BrightDisplayScreen.kt$@Composable @MyDevices private fun BrightDisplayScreenPreview()</ID>
+    <ID>UnusedPrivateMember:SettingsScreen.kt$@Composable @MyDevices private fun SettingsScreenPreview()</ID>
+    <ID>UnusedPrivateMember:SleepTimerCustomAlertDialog.kt$@Composable @MyDevices private fun SleepTimerCustomAlertDialogPreview()</ID>
+    <ID>UnusedPrivateMember:WidgetConfigureScreen.kt$@Composable @MyDevices private fun WidgetBrightDisplayConfigureScreenPreview()</ID>
+    <ID>VariableNaming:MyWidgetBrightDisplayProvider.kt$MyWidgetBrightDisplayProvider$private val OPEN_APP_INTENT_ID = 1</ID>
+    <ID>WildcardImport:Activity.kt$import com.simplemobiletools.commons.helpers.*</ID>
+    <ID>WildcardImport:BrightDisplayScreen.kt$import androidx.compose.foundation.layout.*</ID>
+    <ID>WildcardImport:Context.kt$import com.simplemobiletools.flashlight.helpers.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import androidx.compose.runtime.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.commons.compose.extensions.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.commons.dialogs.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.commons.extensions.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.commons.helpers.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.flashlight.helpers.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import com.simplemobiletools.flashlight.screens.*</ID>
+    <ID>WildcardImport:MainActivity.kt$import kotlinx.coroutines.flow.*</ID>
+    <ID>WildcardImport:MainScreen.kt$import androidx.compose.foundation.layout.*</ID>
+    <ID>WildcardImport:MainScreen.kt$import androidx.compose.material3.*</ID>
+    <ID>WildcardImport:MainScreen.kt$import androidx.compose.runtime.*</ID>
+    <ID>WildcardImport:MainScreen.kt$import com.simplemobiletools.commons.compose.lists.*</ID>
+    <ID>WildcardImport:SettingsScreen.kt$import com.simplemobiletools.commons.compose.settings.*</ID>
+    <ID>WildcardImport:SleepTimerCustomAlertDialog.kt$import androidx.compose.foundation.layout.*</ID>
+    <ID>WildcardImport:SleepTimerCustomAlertDialog.kt$import androidx.compose.material3.*</ID>
+    <ID>WildcardImport:SleepTimerCustomAlertDialog.kt$import androidx.compose.runtime.*</ID>
+    <ID>WildcardImport:WidgetConfigureScreen.kt$import androidx.compose.foundation.layout.*</ID>
+    <ID>WildcardImport:WidgetConfigureScreen.kt$import androidx.compose.material3.*</ID>
+  </CurrentIssues>
+</SmellBaseline>
