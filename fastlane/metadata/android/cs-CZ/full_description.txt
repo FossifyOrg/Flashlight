@@ -1,0 +1,26 @@
+Čistá svítilna s mimořádně jasným displejem, přizpůsobitelným stroboskopem s funkcí stroboskopu a předdefinovaným režimem SOS. 
+
+Tato rychlá startovací led svítilna je lehká na vašem zařízení a ve tmě funguje jako skutečné led světlo. Pomocí tohoto lomítka můžete snadno pracovat za různých okolností a tato rychlá startovací led svítilna vám může pomoci, když jste v bezvýchodné situaci.
+
+Všechny tyto funkce mohou být za určitých okolností nesmírně užitečné. Ať už bloudíte ve tmě a potřebujete led světlo, abyste viděli na cestu, nebo musíte něco najít na místě se slabým osvětlením, toto rychlé startovací svítidlo vám může pomoci za všech možných okolností. Stroboskopické světlo v této aplikaci vám může pomoci, když potřebujete pomoc. Rychlé startovací zábleskové led světlo vám může pomoci přivolat záchranu, pokud ji potřebujete.
+
+Jasný displej může mít změněnou barvu, čímž se vám otevře nový svět možných využití. Může se hodit v případě, že chcete vidět svou širší blízkost, aniž byste se oslnili. Díky různým barvám můžete toto led světlo použít, když jste s přáteli a chcete uspořádat večírek. Nebo můžete tuto funkci využít k přivolání pomoci podle osoby. 
+
+U stroboskopu lze měnit jeho frekvenci, od opravdu rychlého blikání až po občasné. Tuto aplikaci pro rychlé spuštění lze přizpůsobit podle vašich potřeb. Všechny funkce této aplikace můžete bez problémů změnit podle svých potřeb.
+
+Pokud je toto bezplatné blikací světlo zapnuto prostřednictvím aplikace (nikoli widgetu), zabrání uspání zařízení. Silná svítilna se může volitelně zapnout při spuštění aplikace, ale není to povinné.
+
+Dodává se s widgetem 1x1 s přizpůsobitelnou barvou a průhledností. Tento widget vám může pomoci při rychlém spuštění aplikace LED světlo, kdykoli to budete potřebovat.
+
+Ve výchozím nastavení přichází s designem Material a tmavým motivem, který poskytuje skvělé uživatelské prostředí pro snadné používání. Absence přístupu k internetu vám poskytuje více soukromí, bezpečnosti a stability než jiné aplikace.
+
+Neobsahuje žádné reklamy ani zbytečná oprávnění. Je plně opensource, poskytuje přizpůsobitelné barvy.
+
+Kompletní sadu jednoduchých nástrojů si prohlédněte zde:
+https://www.fossify.org.
+
+Reddit:
+https://www.reddit.com/r/Fossify
+
+Telegram:
+https://t.me/Fossify
