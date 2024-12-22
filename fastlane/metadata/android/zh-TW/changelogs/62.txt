@@ -1,0 +1,3 @@
+* 在 Android 12+ 預設使用 Material You 設計
+ * 最低要求的 Android 作業系統版本增至 6
+ * 增加了一些 UI、穩定性和翻譯方面的改進
