@@ -5,9 +5,9 @@
     <string name="camera_error">Beanspruchen der Kamera fehlgeschlagen</string>
     <string name="camera_permission">Kameraberechtigung ist für den Stroboskopeffekt erforderlich</string>
     <string name="bright_display">Heller Bildschirm</string>
-    <string name="show_bright_display">Schaltfläche für hellen Bildschirm zeigen</string>
-    <string name="show_stroboscope">Schaltfläche für Stroboskop zeigen</string>
-    <string name="show_sos">Eine SOS-Schaltfläche zeigen</string>
+    <string name="show_bright_display">Schaltfläche für hellen Bildschirm anzeigen</string>
+    <string name="show_stroboscope">Schaltfläche für Stroboskop anzeigen</string>
+    <string name="show_sos">SOS-Schaltfläche anzeigen</string>
     <string name="turn_flashlight_on">Taschenlampe beim Start einschalten</string>
     <string name="stroboscope">Stroboskop</string>
 </resources>
