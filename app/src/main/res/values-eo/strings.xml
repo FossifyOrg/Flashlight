@@ -4,4 +4,10 @@
     <string name="app_launcher_name">Lanterno</string>
     <string name="bright_display">Hela ekrano</string>
     <string name="show_bright_display">Montri butonon por hela ekrano</string>
-    </resources>
+    <string name="camera_error">Malsukceso de atingi la kameraon</string>
+    <string name="camera_permission">Endas permeso de kamerao por ĝusta stroboskopa efekto</string>
+    <string name="show_stroboscope">Montri butonon por stroboskopo</string>
+    <string name="stroboscope">Stroboskopo</string>
+    <string name="show_sos">Montri butonon de SOS</string>
+    <string name="turn_flashlight_on">Ŝalti lanternon je startigo</string>
+</resources>
