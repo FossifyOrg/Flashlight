@@ -9,4 +9,5 @@
     <string name="show_stroboscope">הצג כפתור סטרובוסקופ</string>
     <string name="show_sos">הצג כפתור SOS</string>
     <string name="turn_flashlight_on">הדלק את הפנס בעת ההפעלה</string>
+    <string name="stroboscope">סטרובוסקופ</string>
 </resources>
