@@ -1,0 +1,2 @@
+* Uyku zamanlayıcısı eklendi
+ * Bazı kullanıcı arayüzü ve çeviri iyileştirmeleri eklendi
