@@ -1,0 +1,2 @@
+* Hakkında bölümüne basit telefon düğmesi eklendi
+ * Bazı çeviri ve UX iyileştirmeleri eklendi
