@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simpla Lanterno</string>
+    <string name="app_name">Simpla lanterno</string>
     <string name="app_launcher_name">Lanterno</string>
     <string name="bright_display">Hela ekrano</string>
     <string name="show_bright_display">Montri butonon por hela ekrano</string>
