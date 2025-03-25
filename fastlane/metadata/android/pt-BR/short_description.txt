@@ -1,1 +1,0 @@
-Controlador de luz LED com controle de brilho e cor personalizável, estroboscópio
