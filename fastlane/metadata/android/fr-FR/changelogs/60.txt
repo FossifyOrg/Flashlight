@@ -1,4 +1,0 @@
-* Permet de modifier la luminosité de la lampe de poche sur Android 13+.
- * Ajout d'une tuile de paramètres d'affichage lumineux
- * Correction de la synchronisation SOS
- * Amélioration de la traduction et de l'interface utilisateur

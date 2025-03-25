@@ -1,2 +1,0 @@
-* Sleeptimer hinzugefügt
-* Einige Verbesserungen an der Bedienoberfläche und Übersetzung

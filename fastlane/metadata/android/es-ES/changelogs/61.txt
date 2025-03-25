@@ -1,4 +1,0 @@
-* Permitir cambiar el brillo de la linterna en Android 13+
- * Añadido un azulejo de configuración de pantalla brillante
- * Corregido el tiempo de SOS
- * Añadidas algunas mejoras de traducción y UX

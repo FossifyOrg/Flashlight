@@ -1,4 +1,0 @@
-* Android 13+'deki el feneri parlaklığının değiştirilmesine izin veriliyor
- * Parlaklık ekranına ayarlar düğmesi eklendi
- * SOS zamanlaması eklendi
- * Bazı çeviri ve UX iyileştirmeleri eklendi

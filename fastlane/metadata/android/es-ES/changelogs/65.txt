@@ -1,2 +1,0 @@
-* Se ha añadido un temporizador para dormir.
- * Añadidas algunas mejoras en la interfaz de usuario y en la traducción

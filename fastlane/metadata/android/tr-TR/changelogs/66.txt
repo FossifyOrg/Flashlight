@@ -1,1 +1,0 @@
-* Bazı kullanıcı arayüzü ve çeviri iyileştirmeleri eklendi

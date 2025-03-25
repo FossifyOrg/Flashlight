@@ -1,2 +1,0 @@
-* Ajout d'une minuterie de sommeil
- * Amélioration de l'interface utilisateur et de la traduction

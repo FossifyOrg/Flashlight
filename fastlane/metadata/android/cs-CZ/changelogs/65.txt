@@ -1,2 +1,0 @@
-* Added a Sleep timer
- * Added some UI and translation improvements

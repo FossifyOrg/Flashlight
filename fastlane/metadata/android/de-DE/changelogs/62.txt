@@ -1,3 +1,0 @@
-* Standardmäßige Verwendung des Material-You-Designs unter Android 12+
-* Die minimal erforderliche Android-Version auf 6 erhöht.
-* Bedienoberfläche, Stabilität und Übersetzungen verbessert
