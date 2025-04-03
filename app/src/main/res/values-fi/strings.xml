@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Näytä stroboskooppipainike</string>
     <string name="show_sos">Näytä SOS-painike</string>
     <string name="turn_flashlight_on">Kytke taskulamppu päälle käynnistyksen yhteydessä</string>
+    <string name="stroboscope">Stroboskooppi</string>
 </resources>
