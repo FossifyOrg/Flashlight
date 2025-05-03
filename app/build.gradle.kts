@@ -71,7 +71,7 @@ android {
     productFlavors {
         register("core")
         register("fdroid")
-        register("prepaid")
+        register("gplay")
     }
 
     sourceSets {
