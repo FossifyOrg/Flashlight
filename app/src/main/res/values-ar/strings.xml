@@ -8,4 +8,6 @@
     <string name="stroboscope">ستروبوسكوب</string>
     <string name="show_sos">إظهار زر SOS</string>
     <string name="turn_flashlight_on">قم بتشغيل المصباح عند بدء التشغيل</string>
+    <string name="app_name">مصباح بسيط</string>
+    <string name="app_launcher_name">مصباح</string>
 </resources>
