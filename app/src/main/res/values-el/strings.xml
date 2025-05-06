@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Προβολή κουμπιού στροβοσκοπίου</string>
     <string name="show_sos">Προβολή κουμπιού SOS</string>
     <string name="turn_flashlight_on">Άνοιγμα του φακού κατά την εκκίνηση</string>
+    <string name="stroboscope">Στροβοσκόπιο</string>
 </resources>
