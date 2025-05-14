@@ -1,28 +1,21 @@
 package com.simplemobiletools.flashlight.activities
 
-import android.Manifest
 import android.annotation.SuppressLint
 import android.app.AlarmManager
 import android.app.Application
 import android.content.Context
 import android.content.Intent
 import android.content.pm.ActivityInfo
-import android.content.pm.PackageManager
 import android.content.pm.ShortcutInfo
 import android.graphics.drawable.Icon
 import android.graphics.drawable.LayerDrawable
 import android.os.Bundle
 import androidx.activity.ComponentActivity
-import androidx.activity.compose.ManagedActivityResultLauncher
-import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.compose.setContent
-import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.compose.runtime.*
 import androidx.compose.ui.res.stringResource
-import androidx.core.content.ContextCompat
 import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewModelScope
 import com.google.android.material.math.MathUtils
@@ -64,15 +57,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             AppThemeSurface {
                 val showMoreApps = onEventValue { !resources.getBoolean(com.simplemobiletools.commons.R.bool.hide_google_relations) }
-                val sosPermissionLauncher = rememberLauncherForActivityResult(
-                    contract = ActivityResultContracts.RequestPermission(),
-                    onResult = getPermissionResultHandler(true)
-                )
-                val stroboscopePermissionLauncher = rememberLauncherForActivityResult(
-                    contract = ActivityResultContracts.RequestPermission(),
-                    onResult = getPermissionResultHandler(false)
-                )
-
                 val sleepTimerCustomDialogState = getSleepTimerCustomDialogState()
                 val sleepTimerDialogState = getSleepTimerDialogState(showCustomSleepTimerDialog = sleepTimerCustomDialogState::show)
                 val sleepTimerPermissionDialogState = getSleepTimerPermissionDialogState(showSleepTimerDialog = sleepTimerDialogState::show)
@@ -104,7 +88,7 @@ class MainActivity : ComponentActivity() {
                             SosButton(
                                 sosActive = sosActive,
                                 onSosButtonPress = {
-                                    toggleStroboscope(true, sosPermissionLauncher)
+                                    toggleStroboscope(true)
                                 },
                             )
                         }
@@ -117,7 +101,7 @@ class MainActivity : ComponentActivity() {
                             StroboscopeButton(
                                 stroboscopeActive = stroboscopeActive,
                                 onStroboscopeButtonPress = {
-                                    toggleStroboscope(false, stroboscopePermissionLauncher)
+                                    toggleStroboscope(false)
                                 },
                             )
                         }
@@ -315,29 +299,7 @@ class MainActivity : ComponentActivity() {
         startAboutActivity(R.string.app_name, 0, BuildConfig.VERSION_NAME, faqItems, true)
     }
 
-    private fun toggleStroboscope(isSOS: Boolean, launcher: ManagedActivityResultLauncher<String, Boolean>) {
-        // use the old Camera API for stroboscope, the new Camera Manager is way too slow
-        if (isNougatPlus()) {
-            cameraPermissionGranted(isSOS)
-        } else {
-            val permission = Manifest.permission.CAMERA
-            if (ContextCompat.checkSelfPermission(this, permission) == PackageManager.PERMISSION_GRANTED) {
-                cameraPermissionGranted(isSOS)
-            } else {
-                launcher.launch(permission)
-            }
-        }
-    }
-
-    private fun getPermissionResultHandler(isSos: Boolean): (Boolean) -> Unit = { granted ->
-        if (granted) {
-            cameraPermissionGranted(isSos)
-        } else {
-            toast(R.string.camera_permission)
-        }
-    }
-
-    private fun cameraPermissionGranted(isSOS: Boolean) {
+    private fun toggleStroboscope(isSOS: Boolean) {
         if (isSOS) {
             viewModel.enableSos()
         } else {
@@ -393,7 +355,7 @@ class MainActivity : ComponentActivity() {
     @SuppressLint("NewApi")
     private fun checkShortcuts() {
         val appIconColor = preferences.appIconColor
-        if (isNougatMR1Plus() && preferences.lastHandledShortcutColor != appIconColor) {
+        if (preferences.lastHandledShortcutColor != appIconColor) {
             val createNewContact = getBrightDisplayShortcut(appIconColor)
 
             try {
