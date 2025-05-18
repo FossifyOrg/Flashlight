@@ -9,4 +9,5 @@
     <string name="show_sos">Visa en SOS-knapp</string>
     <string name="turn_flashlight_on">Slå på ficklampan vid start</string>
     <string name="stroboscope">Stroboskop</string>
+    <string name="app_name">Simple Flashlight</string>
 </resources>
