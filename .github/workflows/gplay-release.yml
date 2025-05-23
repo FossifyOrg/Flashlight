@@ -17,7 +17,7 @@ on:
         description: "Rollout fraction (0.0-1.0)"
         required: false
         type: string
-        default: "0.05"
+        default: "0.5"
       validate_only:
         description: "Fastlane dry-run?"
         required: false
