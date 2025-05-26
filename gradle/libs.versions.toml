@@ -10,7 +10,7 @@ androidx-lifecycle = "2.7.0-alpha02"
 #Simple tools
 simple-commons = "37078b151c"
 #Compose
-composeActivity = "1.8.0"
+composeActivity = "1.10.1"
 compose = "1.7.8"
 composeCompiler = "1.5.3"
 composeMaterial3 = "1.2.0-alpha09"
