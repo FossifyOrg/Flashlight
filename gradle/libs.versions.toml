@@ -4,7 +4,7 @@ kotlin = "1.9.10"
 #Detekt
 detekt = "1.23.8"
 #AndroidX
-androidx-customView = "1.2.0-alpha02"
+androidx-customView = "1.2.0"
 androidx-customViewPooling = "1.0.0"
 androidx-lifecycle = "2.7.0-alpha02"
 #Simple tools
