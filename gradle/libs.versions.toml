@@ -12,7 +12,6 @@ simple-commons = "37078b151c"
 #Compose
 composeActivity = "1.10.1"
 compose = "1.7.8"
-composeCompiler = "1.5.15"
 composeMaterial3 = "1.4.0-alpha15"
 #Gradle
 gradlePlugins-agp = "8.10.0"
@@ -34,7 +33,6 @@ androidx-lifecycle-compose = { module = "androidx.lifecycle:lifecycle-runtime-co
 #Simple Mobile Tools
 simple-tools-commons = { module = "com.github.SimpleMobileTools:Simple-Commons", version.ref = "simple-commons" }
 #Compose
-compose-compiler = { module = "androidx.compose.compiler:compiler", version.ref = "composeCompiler" }
 compose-foundation = { module = "androidx.compose.foundation:foundation", version.ref = "compose" }
 compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "composeMaterial3" }
 compose-material2 = { module = "androidx.compose.material:material", version.ref = "compose" }
@@ -49,7 +47,6 @@ compose-uiTooling-preview = { module = "androidx.compose.ui:ui-tooling-preview",
 compose = [
     "compose-activity",
     "compose-animation",
-    "compose-compiler",
     "compose-foundation",
     "compose-material-icons",
     "compose-material3",
@@ -71,4 +68,5 @@ lifecycle = [
 [plugins]
 android = { id = "com.android.application", version.ref = "gradlePlugins-agp" }
 kotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }

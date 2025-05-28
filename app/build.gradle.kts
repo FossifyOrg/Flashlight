@@ -1,11 +1,13 @@
-import java.io.FileInputStream
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 import org.jetbrains.kotlin.konan.properties.Properties
+import java.io.FileInputStream
 
 plugins {
     alias(libs.plugins.android)
     alias(libs.plugins.kotlinAndroid)
     alias(libs.plugins.detekt)
+    alias(libs.plugins.compose.compiler)
     base
 }
 
@@ -64,10 +66,6 @@ android {
         compose = true
     }
 
-    composeOptions {
-        kotlinCompilerExtensionVersion = libs.versions.composeCompiler.get()
-    }
-
     buildTypes {
         debug {
             applicationIdSuffix = ".debug"
@@ -96,7 +94,8 @@ android {
     }
 
     compileOptions {
-        val currentJavaVersionFromLibs = JavaVersion.valueOf(libs.versions.app.build.javaVersion.get().toString())
+        val currentJavaVersionFromLibs =
+            JavaVersion.valueOf(libs.versions.app.build.javaVersion.get().toString())
         sourceCompatibility = currentJavaVersionFromLibs
         targetCompatibility = currentJavaVersionFromLibs
     }
@@ -106,13 +105,17 @@ android {
     }
 
     tasks.withType<KotlinCompile> {
-        kotlinOptions.jvmTarget = project.libs.versions.app.build.kotlinJVMTarget.get()
-        kotlinOptions.freeCompilerArgs = listOf(
-            "-opt-in=kotlin.RequiresOptIn",
-            "-opt-in=androidx.compose.material3.ExperimentalMaterial3Api",
-            "-opt-in=androidx.compose.material.ExperimentalMaterialApi",
-            "-opt-in=androidx.compose.foundation.ExperimentalFoundationApi",
-            "-Xcontext-receivers"
+        compilerOptions.jvmTarget.set(
+            JvmTarget.fromTarget(project.libs.versions.app.build.kotlinJVMTarget.get())
+        )
+        compilerOptions.freeCompilerArgs.set(
+            listOf(
+                "-opt-in=kotlin.RequiresOptIn",
+                "-opt-in=androidx.compose.material3.ExperimentalMaterial3Api",
+                "-opt-in=androidx.compose.material.ExperimentalMaterialApi",
+                "-opt-in=androidx.compose.foundation.ExperimentalFoundationApi",
+                "-Xcontext-receivers"
+            )
         )
     }
 
