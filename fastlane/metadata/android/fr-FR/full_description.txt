@@ -1,26 +1,26 @@
-Une lampe de poche épurée avec un écran extra lumineux, un stroboscope personnalisable avec fonction de lumière stroboscopique et un mode SOS prédéfini.
+Une lampe de poche épurée avec un mode d'écran extra lumineux, un stroboscope personnalisable avec fonction de lumière stroboscopique et un mode SOS prédéfini.
 
-Cette lampe de poche LED à démarrage rapide éclaire votre appareil et fonctionne comme une véritable lumière LED dans l'obscurité. En utilisant cette lampe oblique, vous pouvez facilement travailler dans différentes circonstances et cette lampe de poche LED à démarrage rapide peut vous aider lorsque vous êtes dans une situation désastreuse.
+Cette lampe de poche LED à démarrage rapide éclaire votre appareil et fonctionne comme une véritable lumière LED dans l'obscurité. Vous pouvez facilement utiliser cette lampe de poche pour travailler dans différentes circonstances et elle pourra vous aider si vous vous retrouvez dans une situation désastreuse.
 
-Toutes ces fonctions peuvent être extrêmement utiles dans certaines circonstances. Que vous vous promeniez dans l'obscurité et que vous ayez besoin d'une lumière LED pour voir le chemin, ou que vous deviez trouver quelque chose dans un endroit peu éclairé, cette lampe flash à démarrage rapide peut vous aider dans toutes les circonstances possibles. La lumière stroboscopique de cette application peut vous aider lorsque vous avez besoin d'aide. Le voyant LED flash à démarrage rapide peut vous aider à appeler à l'aide si vous en avez besoin.
+Toutes ces fonctions peuvent être extrêmement utiles dans certaines circonstances. Que vous vous promeniez dans l'obscurité et que vous ayez besoin d'une lumière LED pour voir le chemin, ou que vous deviez trouver quelque chose dans un endroit peu éclairé, cette lampe de poche à démarrage rapide peut vous aider dans toutes les circonstances possibles. La lumière stroboscopique de cette application peut vous aider lorsque vous avez besoin d'aide. Le voyant LED flash à démarrage rapide peut vous aider à appeler à l'aide si vous en avez besoin.
 
-L'écran Bright peut changer de couleur, ouvrant ainsi un nouveau monde d'utilisations possibles. Cela peut s’avérer utile si vous souhaitez voir votre plus grande proximité sans vous aveugler. Avec différentes couleurs, vous pouvez utiliser cette lumière LED lorsque vous êtes entre amis et que vous souhaitez faire une fête. Ou vous pouvez utiliser cette fonctionnalité pour appeler quelqu'un à l'aide en fonction de la personne.
+L'affichage d'écran lumineux peut changer de couleur, ouvrant ainsi un nouveau monde d'utilisations possibles. Cela peut s’avérer utile si vous souhaitez voir à proximité sans vous aveugler. Avec différentes couleurs, vous pouvez utiliser cette lumière LED lorsque vous êtes entre amis et que vous souhaitez faire une fête. Ou vous pouvez utiliser cette fonctionnalité pour appeler quelqu'un à l'aide en fonction de la personne.
 
-La fréquence du stroboscope peut être modifiée, allant d'un clignotement très rapide à des clignotements occasionnels. Cette application de démarrage rapide peut être personnalisée en fonction de vos besoins. Vous pouvez modifier toutes les fonctionnalités de cette application en fonction de vos besoins sans aucun problème.
+La fréquence du stroboscope peut être modifiée, allant d'un clignotement très rapide à des clignotements occasionnels. Cette application au démarrage rapide peut être personnalisée en fonction de vos besoins. Vous pouvez modifier toutes ses fonctionnalités en fonction de vos besoins sans aucun problème.
 
-Si cette lampe flash gratuite est allumée via l'application (pas le widget), elle empêchera l'appareil de s'endormir. La torche puissante peut éventuellement s'allumer au lancement de l'application, mais ce n'est pas obligatoire.
+Si cette lampe de poche gratuite est allumée via l'application (pas le widget), elle empêchera l'appareil de se mettre en veille. La torche puissante peut éventuellement s'allumer au lancement de l'application, mais ce n'est pas obligatoire.
 
-Livré avec un widget 1x1 avec couleur et transparence personnalisables. Ce widget peut vous aider à démarrer rapidement votre application d'éclairage LED chaque fois que vous en avez besoin.
+Livrée avec un widget 1x1 avec couleur et transparence personnalisables. Ce widget peut vous aider à démarrer rapidement votre application d'éclairage LED chaque fois que vous en avez besoin.
 
-Il est livré avec une conception matérielle et un thème sombre par défaut, offrant une excellente expérience utilisateur pour une utilisation facile. Le manque d'accès à Internet vous offre plus de confidentialité, de sécurité et de stabilité que les autres applications.
+Elle possède un design matériel et un thème sombre par défaut, offrant une excellente expérience utilisateur pour une utilisation facile. Le fonctionnement sans permission d'accès à Internet vous offre plus de confidentialité, de sécurité et de stabilité que les autres applications.
 
-Ne contient aucune publicité ni autorisation inutile. Il est entièrement open source et fournit des couleurs personnalisables.
+Ne contient aucune publicité ni autorisation inutile. Elle est entièrement open source et fournit des couleurs personnalisables.
 
-Découvrez la suite complète d’outils simples ici :
+Découvrez la suite complète des outils Fossify ici :
 https://www.fossify.org
 
-Reddit :
+Reddit :
 https://www.reddit.com/r/Fossify
 
-Télégramme:
+Telegram:
 https://t.me/Fossify
