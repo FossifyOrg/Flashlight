@@ -1,0 +1,1 @@
+Controle de luz de led com ajuste de brilho e personalização de cor, estrobo
