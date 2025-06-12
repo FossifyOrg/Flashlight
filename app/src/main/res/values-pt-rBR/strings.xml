@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Fossify - Lanterna</string>
+    <string name="app_name">Lanterna</string>
     <string name="app_launcher_name">Lanterna</string>
     <string name="camera_error">Erro ao obter a câmera</string>
     <string name="camera_permission">A permissão para a câmera é necessária para usar o efeito estroboscópio</string>
