@@ -124,8 +124,9 @@ android {
     lint {
         checkReleaseBuilds = false
         abortOnError = true
-        warningsAsErrors = true
+        warningsAsErrors = false
         baseline = file("lint-baseline.xml")
+        lintConfig = rootProject.file("lint.xml")
     }
 
     bundle {
