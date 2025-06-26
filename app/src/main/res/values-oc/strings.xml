@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Fossify Flashlight</string>
+    <string name="camera_error">Fracàs de l’obtencion de la camèra</string>
+    <string name="bright_display">Afichatge luminós</string>
+    <string name="show_bright_display">Mostrar un boton d’afichatge luminós</string>
+    <string name="show_stroboscope">Mostrar un boton d’estroboscòpi</string>
+    <string name="stroboscope">Estroboscòpi</string>
+    <string name="show_sos">Mostrar un boton « S.O.S »</string>
+    <string name="turn_flashlight_on">Activar la lampa de pòcha</string>
+    <string name="app_launcher_name">Lampa de pòcha</string>
+    <string name="camera_permission">L’autorizacion de la camèra es necessària per un efièch estroboscopic adeqüat</string>
 </resources>
