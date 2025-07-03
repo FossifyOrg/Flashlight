@@ -37,7 +37,7 @@
         errorLine2="                      ~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="20"
+            line="21"
             column="23"/>
     </issue>
 
@@ -86,13 +86,24 @@
     </issue>
 
     <issue
+        id="AndroidGradlePluginVersion"
+        message="A newer version of com.android.application than 8.10.1 is available: 8.11.0"
+        errorLine1="gradlePlugins-agp = &quot;8.10.1&quot;"
+        errorLine2="                    ~~~~~~~~">
+        <location
+            file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
+            line="18"
+            column="21"/>
+    </issue>
+
+    <issue
         id="GradleDependency"
         message="A newer version of androidx.lifecycle:lifecycle-runtime-compose than 2.9.0 is available: 2.9.1"
         errorLine1="androidx-lifecycle = &quot;2.9.0&quot;"
         errorLine2="                     ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="9"
+            line="10"
             column="22"/>
     </issue>
 
@@ -103,7 +114,7 @@
         errorLine2="                     ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="9"
+            line="10"
             column="22"/>
     </issue>
 
@@ -114,7 +125,7 @@
         errorLine2="                     ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="9"
+            line="10"
             column="22"/>
     </issue>
 
@@ -125,7 +136,7 @@
         errorLine2="                     ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="9"
+            line="10"
             column="22"/>
     </issue>
 
@@ -136,7 +147,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -147,7 +158,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -158,7 +169,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -169,7 +180,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -180,7 +191,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -191,7 +202,7 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
@@ -202,18 +213,18 @@
         errorLine2="          ~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="14"
+            line="15"
             column="11"/>
     </issue>
 
     <issue
         id="GradleDependency"
-        message="A newer version of androidx.compose.material3:material3 than 1.4.0-alpha15 is available: 1.4.0-alpha16"
+        message="A newer version of androidx.compose.material3:material3 than 1.4.0-alpha15 is available: 1.4.0-alpha17"
         errorLine1="composeMaterial3 = &quot;1.4.0-alpha15&quot;"
         errorLine2="                   ~~~~~~~~~~~~~~~">
         <location
             file="$HOME/Projects/Fossify/FossifyOrg/Flashlight/gradle/libs.versions.toml"
-            line="15"
+            line="16"
             column="20"/>
     </issue>
 
