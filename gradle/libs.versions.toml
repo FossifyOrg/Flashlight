@@ -3,6 +3,7 @@
 kotlin = "2.2.0"
 #Detekt
 detekt = "1.23.8"
+detektCompose = "0.4.22"
 #AndroidX
 androidx-customView = "1.2.0"
 androidx-customViewPooling = "1.1.0"
@@ -43,6 +44,7 @@ compose-ui = { module = "androidx.compose.ui:ui", version.ref = "compose" }
 compose-runtime = { module = "androidx.compose.runtime:runtime", version.ref = "compose" }
 compose-uiTooling-debug = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose" }
 compose-uiTooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
+compose-detekt = { module = "io.nlopez.compose.rules:detekt", version.ref = "detektCompose" }
 [bundles]
 compose = [
     "compose-activity",
