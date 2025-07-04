@@ -3,4 +3,11 @@
     <string name="app_name">Nabarmentze sinplea</string>
     <string name="app_launcher_name">Linterna</string>
     <string name="camera_error">Kamera lortzeak huts egin du</string>
+    <string name="camera_permission">Kameraren baimena beharrezkoa da efektu estroboskopiko egokia lortzeko</string>
+    <string name="bright_display">Pantaila distiratsua</string>
+    <string name="show_bright_display">Erakutsi pantaila distiratsua botoia</string>
+    <string name="show_stroboscope">Erakutsi estroboskopioaren botoia</string>
+    <string name="stroboscope">Estroboskopioa</string>
+    <string name="show_sos">SOS botoia erakutsi</string>
+    <string name="turn_flashlight_on">Piztu linterna abiaraztean</string>
 </resources>
