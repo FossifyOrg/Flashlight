@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Zobraziť tlačidlo pre stroboskop</string>
     <string name="show_sos">Zobraziť tlačidlo SOS</string>
     <string name="turn_flashlight_on">Aktivovať baterku po spustení</string>
+    <string name="stroboscope">Stroboskop</string>
 </resources>
