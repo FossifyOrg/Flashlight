@@ -7,7 +7,7 @@ detektCompose = "0.4.25"
 #AndroidX
 androidx-customView = "1.2.0"
 androidx-customViewPooling = "1.1.0"
-androidx-lifecycle = "2.9.1"
+androidx-lifecycle = "2.9.2"
 #Simple tools
 simple-commons = "37078b151c"
 #Compose
