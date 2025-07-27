@@ -9,4 +9,5 @@
     <string name="show_stroboscope">Vis en stroboskop-knap</string>
     <string name="show_sos">Vis en SOS-knap</string>
     <string name="turn_flashlight_on">Slå lommelygte til ved start</string>
+    <string name="stroboscope">Stroboscop</string>
 </resources>
