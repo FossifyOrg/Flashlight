@@ -1,0 +1,26 @@
+Czysta latarka z bardzo jasnym wyświetlaczem, konfigurowalnym stroboskopem z funkcją światła stroboskopowego i predefiniowanym trybem SOS.
+
+Ta szybko uruchamiana latarka LED jest lekka dla urządzenia i działa jak prawdziwe światło LED w ciemności. Korzystając z tej latarki, możesz z łatwością pracować w różnych okolicznościach, a ta szybko uruchamiana latarka LED może pomóc, gdy znajdziesz się w trudnej sytuacji.
+
+Wszystkie te funkcje mogą być niezwykle pomocne w pewnych okolicznościach. Niezależnie od tego, czy wędrujesz w ciemności i potrzebujesz światła LED, aby zobaczyć drogę, czy też musisz znaleźć coś w słabo oświetlonym miejscu, ta szybka lampa błyskowa może Ci pomóc we wszystkich możliwych okolicznościach. Światło stroboskopowe w tej aplikacji może pomóc, gdy potrzebujesz pomocy. Szybka lampa błyskowa LED może pomóc w wezwaniu pomocy, jeśli jej potrzebujesz.
+
+Jasny wyświetlacz może mieć zmieniony kolor, otwierając nowy świat możliwych zastosowań. Może się przydać w przypadku, gdy chcesz zobaczyć swoją większą bliskość bez oślepiania siebie. Dzięki różnym kolorom możesz używać tego światła LED, gdy jesteś z przyjaciółmi i chcesz urządzić imprezę. Możesz też użyć tej funkcji, aby wezwać kogoś do pomocy w zależności od osoby.
+
+Stroboskop może mieć zmienianą częstotliwość, od bardzo szybkiego migania do sporadycznego. Tę aplikację do szybkiego uruchamiania można dostosować do własnych potrzeb. Możesz zmienić wszystkie funkcje tej aplikacji zgodnie z własnymi potrzebami bez żadnego problemu.
+
+Jeśli ta darmowa latarka zostanie włączona za pośrednictwem aplikacji (nie widżetu), zapobiegnie ona uśpieniu urządzenia. Mocna latarka może opcjonalnie włączyć się podczas uruchamiania aplikacji, ale nie jest to obowiązkowe.
+
+Zawiera widżet 1x1 z konfigurowalnym kolorem i przezroczystością. Widżet ten może pomóc w szybkim uruchomieniu aplikacji oświetlenia LED, gdy tylko zajdzie taka potrzeba.
+
+Jest domyślnie wyposażony w Material Design i ciemny motyw, zapewniając doskonałe wrażenia użytkownika dla łatwego użytkowania. Brak dostępu do Internetu zapewnia większą prywatność, bezpieczeństwo i stabilność niż inne aplikacje.
+
+Nie zawiera reklam ani niepotrzebnych uprawnień. Jest w pełni open source, zapewnia konfigurowalne kolory.
+
+Sprawdź pełny zestaw Prostych Narzędzi tutaj:
+https://www.fossify.org
+
+Reddit:
+https://www.reddit.com/r/Fossify
+
+Telegram:
+https://t.me/Fossify
