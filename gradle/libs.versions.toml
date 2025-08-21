@@ -15,7 +15,7 @@ composeActivity = "1.10.1"
 compose = "1.7.8"
 composeMaterial3 = "1.5.0-alpha02"
 #Gradle
-gradlePlugins-agp = "8.11.1"
+gradlePlugins-agp = "8.12.1"
 #build
 app-build-compileSDKVersion = "35"
 app-build-targetSDK = "35"
