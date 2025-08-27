@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Fossify Flashlight</string>
+    <string name="app_name">Torche simple</string>
     <string name="app_launcher_name">Lampe de poche</string>
     <string name="camera_error">Échec de l\'obtention de l\'objectif photo-vidéo</string>
     <string name="camera_permission">L\'autorisation d\'accès à l\'appareil photo est nécessaire pour un effet stroboscopique correct</string>
