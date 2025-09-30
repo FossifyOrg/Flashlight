@@ -1,1 +1,1 @@
-LED-lysstyring med lysstyrkekontrol og tilpasselig farve, stroboskop
+LED-lysstyring med lysstyrkekontrol, farvetilpasning og stroboskop
