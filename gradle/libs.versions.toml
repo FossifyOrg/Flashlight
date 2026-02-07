@@ -11,7 +11,7 @@ androidx-lifecycle = "2.10.0"
 #Simple tools
 simple-commons = "37078b151c"
 #Compose
-composeActivity = "1.12.2"
+composeActivity = "1.12.3"
 compose = "1.7.8"
 composeMaterial3 = "1.5.0-alpha13"
 #Gradle
