@@ -13,7 +13,7 @@ simple-commons = "37078b151c"
 #Compose
 composeActivity = "1.12.3"
 compose = "1.7.8"
-composeMaterial3 = "1.5.0-alpha13"
+composeMaterial3 = "1.5.0-alpha14"
 #Gradle
 gradlePlugins-agp = "9.0.0"
 #build
